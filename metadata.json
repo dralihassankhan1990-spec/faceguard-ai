@@ -1,0 +1,8 @@
+{
+  "description": "A facial detection and attendance system using Gemini Vision and Local Storage.",
+  "name": "FaceGuard AI Attendance",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
